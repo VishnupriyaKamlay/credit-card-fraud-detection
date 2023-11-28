@@ -46,3 +46,4 @@ By incorporating user behavior analysis, the system adds an extra layer of sophi
 In summary, the Credit Card Fraud Detection project has achieved its objectives of creating a comprehensive, secure, and adaptable solution. It stands as a crucial tool for financial institutions and credit card users alike, instilling confidence in the security of electronic transactions and mitigating the risks associated with fraudulent activities. The success of this project marks a significant step forward in enhancing the resilience of financial systems against the ever-evolving landscape of cyber threats.
 
  # data set is taken from the kaggle.com
+ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
